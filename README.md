@@ -1,44 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ziad Hossam</h1>
-<h3 align="center">A 13 Years Old Front-End Devloper From Egypt</h3>
-<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadhossam&label=Profile%20views&color=30971c&style=flat-square" alt="ziadhossam" /> </p>
-
-- 🔭 I’m currently working on **Learning Javascript**
-
-- 🌱 I’m currently learning **Javascript,Css[Advanced],Scss**
-
-- 👯 I’m looking to collaborate on **Microsoft Company**
-
-- 🤝 I’m looking for help with **Older Programmers**
-
-- 💬 Ask me about **html,css**
-
-- 📫 How to reach me **ziad.h.ramadona@gmail.com**
-
-- ⚡ Fun fact **I Still Afraid Of Dark**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/zezoxlevi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zezoxlevi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ziad-hossam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ziad-hossam" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadhossam&show_icons=true&theme=dark&locale=en&layout=compact" alt="ziadhossam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadhossam&show_icons=true&theme=onedark&locale=en" alt="ziadhossam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadhossam&" alt="ziadhossam" /></p>
+<h1 align="center">Hey There Buddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h3 align="center">I'm a Front-End Web Devloper</h3>
 
 
 
+  <a href="mailto:ziad.h.ramadona@gmail.com">
+    <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ziad-hossam-78662524b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</div>
 
 
+<h3>
+  :man_technologist: 
+  About Me
+</h3>
 
+<img width="450" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />&nbsp;
 
+- :books: I’m currently in prepatory school.
 
+- :man_student: Looking forward to studying CS.
 
+- :clock7: I use  my  time, to  learn web development.
 
+- :telescope: Seeking for knowledge & acquiring new skills.
 
+- :man_teacher: Nowadays, I'm learning Javascript.
+
+<br />
+<br />
+
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+  My Skills
+</h3>
+
+<div>
+    <img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" />
+    <img src="https://img.shields.io/badge/-Css-333?logo=css3&style=for-the-badge&logoColor=blue" alt="CSS" />
+    <img src="https://img.shields.io/badge/-Git-333?logo=git&style=for-the-badge" alt="Git" />
+</div>
+
+<br />
+<br />
+
+<h3>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
+  Github Stats
+</h3>
+
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZiadHosssam&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" width="49%" />&nbsp;
+<img alt="Github Stats" src="https://streak-stats.demolab.com?user=ZiadHosssam&theme/=dracula&hide_border=true" width="49%" />&nbsp;
+<img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZiadHosssam&theme=dracula" width="32.5%">
+
+<br />
+<br />
+
+<h3>
+  <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="35"> 
+  Trophies
+</h3>
+
+<img  alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ZiadHosssam&theme=dracula&column=7&margin-w=5&no-frame=true" width="100%" />
